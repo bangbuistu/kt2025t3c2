@@ -1,0 +1,10 @@
+./bin/bash
+boiso3(n){
+	local num=$1;
+	if [n/3==1]; then
+	echo "n la boi so cua 3";
+	else; then 
+	echo "n khong la boi so cua 3";
+}
+read n
+boiso3 $n
