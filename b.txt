@@ -1,0 +1,10 @@
+#!/bin/bash
+
+read n
+if [[ $n -lt 0 ]]
+then
+	echo "Am"
+elif [[ $n -gt 0 ]]
+then
+	echo "Duong"
+fi
