@@ -1,0 +1,11 @@
+#include "iostream"
+using namespace std;
+
+int main() {
+	int a;
+	cout<<"Nhap a:";
+	cin>>a;
+	if(a<0) cout<<"Day la so am"<<endl;
+	else cout<<"Day la so duong"<<endl;
+	return 0;
+}
