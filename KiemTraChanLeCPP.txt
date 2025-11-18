@@ -1,0 +1,12 @@
+#include "iostream.h"
+
+void kiemTraSoNguyen(n){
+	if(n>0){
+		cour<<"Số nhập vào là số dương";
+	}
+	else if(n<0){
+		cout <<" Số nhập vào là số âm";
+	}else {
+		cout << "Số nhập vào là số 0";
+	}	
+}
