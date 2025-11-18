@@ -1,0 +1,11 @@
+./bin/bash
+kiemtraSoNguyen(){
+	local num=$1
+	if [ $num -gt 0 ]; then
+		echo "Số dương"
+	elif [ $num -lt 0 ]; then
+		echo "Số âm"
+	fi
+}
+read n
+kiemtraSoNguyen $n
