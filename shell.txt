@@ -1,0 +1,9 @@
+#!/bin/bash
+
+read -p "Nhap n: " n
+
+if (( n % 2 == 0 )); then
+    echo "So chan"
+else
+    echo "So le"
+fi
