@@ -1,0 +1,148 @@
+* [33m08d142d[m[33m ([m[1;31morigin/DH52201555[m[33m, [m[1;32mDH52201555[m[33m)[m cau4
+* [33m160d4a5[m cau2
+* [33mbef8498[m cau1
+[31m|[m * [33m235e689[m[33m ([m[1;31morigin/DH52200868_sh[m[33m)[m Cau 2
+[31m|[m [32m|[m * [33meef4f68[m[33m ([m[1;31morigin/DH52201389[m[33m)[m uploadhuongdan
+[31m|[m [32m|[m * [33me16d710[m upload
+[31m|[m [32m|[m * [33m7adad24[m upload
+[31m|[m [32m|[m * [33mc5930eb[m upload
+[31m|[m [32m|[m [33m|[m * [33m34cff79[m[33m ([m[1;31morigin/DH52201367[m[33m)[m update file word
+[31m|[m [32m|[m [33m|[m * [33m3f03517[m Delete LeNgocSon_DH52201367.docx
+[31m|[m [32m|[m [33m|[m * [33m7a25f1a[m push file word
+[31m|[m [32m|[m [33m|[m[32m/[m  
+[31m|[m [32m|[m[32m/[m[33m|[m   
+[31m|[m [32m|[m [33m|[m * [33mb767728[m[33m ([m[1;31morigin/DH52201555_cpp[m[33m, [m[1;32mDH52201555_cpp[m[33m)[m cau3
+[31m|[m [32m|[m[31m_[m[33m|[m[31m/[m  
+[31m|[m[31m/[m[32m|[m [33m|[m   
+[31m|[m [32m|[m [33m|[m * [33m7b7632b[m[33m ([m[1;31morigin/DH52200438_sh[m[33m)[m boiso3
+[31m|[m [32m|[m[31m_[m[33m|[m[31m/[m  
+[31m|[m[31m/[m[32m|[m [33m|[m   
+[31m|[m [32m|[m [33m|[m * [33m429ca67[m[33m ([m[1;31morigin/DH52200495_sh[m[33m)[m kiem tra so nguyen shell script
+[31m|[m [32m|[m [33m|[m[33m/[m  
+[31m|[m [32m|[m [33m|[m *   [33m7f56b5c[m[33m ([m[1;31morigin/DH52201766[m[33m)[m Merge branch 'DH52201766_sh' into DH52201766
+[31m|[m [32m|[m [33m|[m [1;32m|[m[1;33m\[m  
+[31m|[m [32m|[m [33m|[m [1;32m|[m * [33me473e2f[m[33m ([m[1;31morigin/DH52201766_sh[m[33m)[m Hoan thanh viet KiemTraSoNguyen shell Script
+[31m|[m [32m|[m [33m|[m [1;32m|[m[33m/[m  
+[31m|[m [32m|[m [33m|[m[33m/[m[1;32m|[m   
+[31m|[m [32m|[m [33m|[m *   [33m26ba6f7[m Merge branch 'DH52201766_cpp' into DH52201766
+[31m|[m [32m|[m [33m|[m [1;34m|[m[1;35m\[m  
+[31m|[m [32m|[m [33m|[m [1;34m|[m * [33m8d85a33[m[33m ([m[1;31morigin/DH52201766_cpp[m[33m)[m Hoan thanh viet KiemTraSoNguyen
+[31m|[m [32m|[m [33m|[m [1;34m|[m[33m/[m  
+[31m|[m [32m|[m [33m|[m[33m/[m[1;34m|[m   
+[31m|[m [32m|[m [33m|[m * [33m71d636a[m hoan thanh cau 5
+[31m|[m [32m|[m [33m|[m * [33m6430bd7[m hoan thanh cau 2
+[31m|[m [32m|[m [33m|[m[33m/[m  
+[31m|[m [32m|[m [33m|[m *   [33mcb0f91a[m[33m ([m[1;31morigin/may15[m[33m)[m Merge branch 'dh52200859' into may15
+[31m|[m [32m|[m [33m|[m [1;36m|[m[31m\[m  
+[31m|[m [32m|[m [33m|[m [1;36m|[m * [33mcd7a63a[m cau 5
+[31m|[m [32m|[m [33m|[m[32m_[m[1;36m|[m[32m/[m  
+[31m|[m [32m|[m[32m/[m[33m|[m [1;36m|[m   
+[31m|[m [32m|[m [33m|[m *   [33meba5e7f[m Merge branch 'dh52200859_sh' into may15
+[31m|[m [32m|[m [33m|[m [32m|[m[33m\[m  
+[31m|[m [32m|[m [33m|[m [32m|[m * [33mc2312c9[m cau 3 y 2
+[31m|[m [32m|[m [33m|[m[32m_[m[32m|[m[32m/[m  
+[31m|[m [32m|[m[32m/[m[33m|[m [32m|[m   
+[31m|[m [32m|[m [33m|[m * [33m5bd0126[m Merge branch 'dh52200859_cpp' into may15
+[31m|[m [32m|[m [33m|[m[33m/[m[35m|[m 
+[31m|[m [32m|[m [33m|[m * [33m09a229c[m cau 3 y 1
+[31m|[m [32m|[m [33m|[m[32m/[m  
+[31m|[m [32m|[m[32m/[m[33m|[m   
+[31m|[m [32m|[m [33m|[m * [33ma50e9c1[m[33m ([m[1;31morigin/DH52201389_sh[m[33m)[m sh
+[31m|[m [32m|[m [33m|[m[33m/[m  
+[31m|[m [32m|[m [33m|[m * [33m825fb04[m[33m ([m[1;31morigin/DH52201555_sh[m[33m, [m[1;32mDH52201555_sh[m[33m)[m cau3
+[31m|[m [32m|[m[31m_[m[33m|[m[31m/[m  
+[31m|[m[31m/[m[32m|[m [33m|[m   
+[31m|[m [32m|[m [33m|[m *   [33mbeddd9d[m[33m ([m[1;31morigin/DH52200778[m[33m)[m update sh
+[31m|[m [32m|[m [33m|[m [1;32m|[m[1;33m\[m  
+[31m|[m [32m|[m [33m|[m [1;32m|[m * [33mfa6fb04[m[33m ([m[1;31morigin/DH52200778_sh[m[33m)[m add sh
+[31m|[m [32m|[m[31m_[m[33m|[m[31m_[m[1;32m|[m[31m/[m  
+[31m|[m[31m/[m[32m|[m [33m|[m [1;32m|[m   
+[31m|[m [32m|[m [33m|[m * [33mccea4f5[m update wordx
+[31m|[m [32m|[m [33m|[m * [33mc4edb91[m add wordx
+[31m|[m [32m|[m[31m_[m[33m|[m[31m/[m  
+[31m|[m[31m/[m[32m|[m [33m|[m   
+[31m|[m [32m|[m [33m|[m * [33mbceeee7[m[33m ([m[1;31morigin/DH52200561_sh[m[33m)[m ktboi3_SH
+[31m|[m [32m|[m[31m_[m[33m|[m[31m/[m  
+[31m|[m[31m/[m[32m|[m [33m|[m   
+[31m|[m [32m|[m [33m|[m * [33m3032f6f[m[33m ([m[1;31morigin/DH52200452_cpp[m[33m)[m Danh
+[31m|[m [32m|[m [33m|[m[32m/[m  
+[31m|[m [32m|[m[32m/[m[33m|[m   
+[31m|[m [32m|[m [33m|[m * [33mea4a2c2[m[33m ([m[1;31morigin/DH52200438_cpp[m[33m)[m 2
+[31m|[m [32m|[m [33m|[m * [33m0f5d9d1[m ct c++
+[31m|[m [32m|[m[31m_[m[33m|[m[31m/[m  
+[31m|[m[31m/[m[32m|[m [33m|[m   
+[31m|[m [32m|[m [33m|[m * [33m45cccb9[m[33m ([m[1;31morigin/DH52200495_cpp[m[33m)[m kiem tra so duong am c++
+[31m|[m [32m|[m [33m|[m[33m/[m  
+[31m|[m [32m|[m [33m|[m * [33mcd67728[m[33m ([m[1;31morigin/DH52201389_cpp[m[33m)[m cpp
+[31m|[m [32m|[m [33m|[m[33m/[m  
+[31m|[m [32m|[m [33m|[m *   [33ma49eb18[m[33m ([m[1;31morigin/DH52200666[m[33m)[m Merge branch 'DH52200666_sh' into DH52200666
+[31m|[m [32m|[m [33m|[m [33m|[m[34m\[m  
+[31m|[m [32m|[m [33m|[m [33m|[m * [33m38b9205[m[33m ([m[1;31morigin/DH52200666_sh[m[33m)[m create boi3.sh
+[31m|[m [32m|[m[31m_[m[33m|[m[31m_[m[33m|[m[31m/[m  
+[31m|[m[31m/[m[32m|[m [33m|[m [33m|[m   
+[31m|[m [32m|[m [33m|[m *   [33mcebccd8[m Merge branch 'DH52200666_cpp' into DH52200666
+[31m|[m [32m|[m [33m|[m [35m|[m[36m\[m  
+[31m|[m [32m|[m [33m|[m [35m|[m * [33m86f38f3[m[33m ([m[1;31morigin/DH52200666_cpp[m[33m)[m create boi3.cpp
+[31m|[m [32m|[m[31m_[m[33m|[m[31m_[m[35m|[m[31m/[m  
+[31m|[m[31m/[m[32m|[m [33m|[m [35m|[m   
+[31m|[m [32m|[m [33m|[m * [33m029c678[m update stash.docx
+[31m|[m [32m|[m [33m|[m * [33m201a0c4[m create stash.docx
+[31m|[m [32m|[m[31m_[m[33m|[m[31m/[m  
+[31m|[m[31m/[m[32m|[m [33m|[m   
+[31m|[m [32m|[m [33m|[m * [33m0bf78d1[m[33m ([m[1;31morigin/DH52201367_cpp[m[33m)[m push file cpp
+[31m|[m [32m|[m [33m|[m[32m/[m  
+[31m|[m [32m|[m[32m/[m[33m|[m   
+[31m|[m [32m|[m [33m|[m *   [33m7b441ef[m[33m ([m[1;31morigin/DH52200677[m[33m)[m Merge branch 'DH52200677_sh' into DH52200677
+[31m|[m [32m|[m [33m|[m [1;32m|[m[1;33m\[m  
+[31m|[m [32m|[m [33m|[m [1;32m|[m * [33m15b4a8b[m[33m ([m[1;31morigin/DH52200677_sh[m[33m)[m chanLe.sh
+[31m|[m [32m|[m [33m|[m * [1;33m|[m   [33m523e501[m Merge branch 'DH52200677_cpp' into DH52200677
+[31m|[m [32m|[m [33m|[m [1;34m|[m[1;35m\[m [1;33m\[m  
+[31m|[m [32m|[m [33m|[m [1;34m|[m * [1;33m|[m [33m449f094[m[33m ([m[1;31morigin/DH52200677_cpp[m[33m)[m xoa cau1.docx sai nhanh
+[31m|[m [32m|[m [33m|[m [1;34m|[m * [1;33m|[m [33m5062993[m chanLe.cpp
+[31m|[m [32m|[m [33m|[m [1;34m|[m [1;33m|[m[1;33m/[m  
+[31m|[m [32m|[m [33m|[m * [1;33m|[m [33mf10586b[m cap nhat cau1.docx tra loi cau 5
+[31m|[m [32m|[m [33m|[m * [1;33m|[m [33m34cbaae[m cau1.docx
+[31m|[m [32m|[m [33m|[m [1;33m|[m[1;33m/[m  
+[31m|[m [32m|[m [33m|[m [1;33m|[m * [33m730cf46[m[33m ([m[1;31morigin/DH52200561_cpp[m[33m)[m code c++
+[31m|[m [32m|[m[31m_[m[33m|[m[31m_[m[1;33m|[m[31m/[m  
+[31m|[m[31m/[m[32m|[m [33m|[m [1;33m|[m   
+[31m|[m [32m|[m [33m|[m [1;33m|[m * [33m8ce5432[m[33m ([m[1;31morigin/DH52200452[m[33m)[m Danh
+[31m|[m [32m|[m [33m|[m [1;33m|[m * [33mcb4f2fd[m Danh
+[31m|[m [32m|[m [33m|[m[32m_[m[1;33m|[m[32m/[m  
+[31m|[m [32m|[m[32m/[m[33m|[m [1;33m|[m   
+[31m|[m [32m|[m [33m|[m [1;33m|[m * [33m06191ee[m[33m ([m[1;31morigin/DH52201342[m[33m)[m Add files via upload
+[31m|[m [32m|[m [33m|[m[32m_[m[1;33m|[m[32m/[m  
+[31m|[m [32m|[m[32m/[m[33m|[m [1;33m|[m   
+[31m|[m [32m|[m [33m|[m [1;33m|[m * [33m479c4f2[m[33m ([m[1;31morigin/DH52200577[m[33m)[m Cau 1
+[31m|[m [32m|[m [33m|[m[32m_[m[1;33m|[m[32m/[m  
+[31m|[m [32m|[m[32m/[m[33m|[m [1;33m|[m   
+[31m|[m [32m|[m [33m|[m [1;33m|[m * [33m61c4377[m[33m ([m[1;31morigin/DH52200495[m[33m)[m cau2
+[31m|[m [32m|[m [33m|[m [1;33m|[m[33m/[m  
+[31m|[m [32m|[m [33m|[m[33m/[m[1;33m|[m   
+[31m|[m [32m|[m * [1;33m|[m [33m8a1f93c[m[33m ([m[1;31morigin/may9[m[33m, [m[1;31morigin/may6[m[33m, [m[1;31morigin/may30[m[33m, [m[1;31morigin/may3[m[33m, [m[1;31morigin/may27[m[33m, [m[1;31morigin/may24[m[33m, [m[1;31morigin/may21[m[33m, [m[1;31morigin/may18[m[33m, [m[1;31morigin/may12[m[33m, [m[1;31morigin/DH52200616[m[33m)[m update may3
+[31m|[m [32m|[m[32m/[m [1;33m/[m  
+[31m|[m [32m|[m [1;33m|[m *   [33m5f6f9e0[m[33m ([m[1;31morigin/Dh52200511[m[33m)[m fix conflict
+[31m|[m [32m|[m [1;33m|[m [35m|[m[36m\[m  
+[31m|[m [32m|[m [1;33m|[m [35m|[m * [33md8586b5[m nhanh2
+[31m|[m [32m|[m [1;33m|[m * [36m|[m [33mfbf3b2a[m nhanh1
+[31m|[m [32m|[m [1;33m|[m [36m|[m[36m/[m  
+[31m|[m [32m|[m [1;33m|[m * [33ma432465[m test1
+[31m|[m [32m|[m [1;33m|[m * [33m0236218[m create test conflict
+[31m|[m [32m|[m [1;33m|[m[1;33m/[m  
+[31m|[m [32m|[m * [33m38c36b9[m[33m ([m[1;31morigin/may8[m[33m, [m[1;31morigin/may5[m[33m, [m[1;31morigin/may29[m[33m, [m[1;31morigin/may26[m[33m, [m[1;31morigin/may23[m[33m, [m[1;31morigin/may20[m[33m, [m[1;31morigin/may2[m[33m, [m[1;31morigin/may17[m[33m, [m[1;31morigin/may14[m[33m, [m[1;31morigin/may11[m[33m, [m[1;31morigin/dh52200406[m[33m, [m[1;32mmay29[m[33m)[m update may2
+[31m|[m [32m|[m [36m|[m * [33mdc69529[m[33m ([m[1;31morigin/DH52200778_cpp[m[33m)[m add cpp
+[31m|[m [32m|[m[31m_[m[36m|[m[31m/[m  
+[31m|[m[31m/[m[32m|[m [36m|[m   
+[31m|[m [32m|[m [36m|[m * [33m6f1d4ea[m[33m ([m[1;31morigin/DH52200561[m[33m)[m Huong dan dung stash
+[31m|[m [32m|[m[31m_[m[36m|[m[31m/[m  
+[31m|[m[31m/[m[32m|[m [36m|[m   
+[31m|[m [32m|[m [36m|[m * [33mec1bfae[m[33m ([m[1;31morigin/DH52200438[m[33m)[m hdsd slash
+[31m|[m [32m|[m[31m_[m[36m|[m[31m/[m  
+[31m|[m[31m/[m[32m|[m [36m|[m   
+* [32m|[m [36m|[m [33mb3ac16d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmay28[m[33m, [m[1;31morigin/may7[m[33m, [m[1;31morigin/may4[m[33m, [m[1;31morigin/may28[m[33m, [m[1;31morigin/may25[m[33m, [m[1;31morigin/may22[m[33m, [m[1;31morigin/may19[m[33m, [m[1;31morigin/may16[m[33m, [m[1;31morigin/may13[m[33m, [m[1;31morigin/may10[m[33m, [m[1;31morigin/may1[m[33m, [m[1;32mMSSV_cpp[m[33m)[m update may2
+[36m|[m [32m|[m[36m/[m  
+[36m|[m[36m/[m[32m|[m   
+* [32m|[m [33m54d314a[m update t3
+* [32m|[m [33me307227[m de1
+[32m|[m[32m/[m  
+* [33m307a77c[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;31morigin/DH52200868_cpp[m[33m, [m[1;31morigin/DH52200868[m[33m, [m[1;31morigin/DH52200616_cpp[m[33m, [m[1;31morigin/DH52200452_sh[m[33m, [m[1;32mmain[m[33m)[m init
