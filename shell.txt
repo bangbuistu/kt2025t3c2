@@ -1,0 +1,11 @@
+#!/bin/bash
+
+echo -n "Nhap so: "
+read n
+
+if (( n > 0 )); then
+    echo "So duong"
+else
+    echo "So le"
+
+fi
