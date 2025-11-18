@@ -1,0 +1,13 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    int n;
+    cout << "Nhap so: ";
+    cin >> n;
+
+    if (n > 0) cout << "So duong";
+    else cout << "So am";
+
+    return 0;
+}
