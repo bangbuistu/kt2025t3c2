@@ -1,0 +1,14 @@
+#include <iostream>
+using namespace std;
+
+int main (){
+	int n;
+	cin>>n;
+	ktboi3(n);
+	return 0;
+}
+bool ktboi3 (int n){
+	if(n%3==0)
+		return true;
+	return false;
+}
