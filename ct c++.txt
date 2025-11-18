@@ -1,0 +1,9 @@
+n int;
+int main{
+cout<<"nhap vao so nguyen: ";
+cin<<n;
+if (n /3 ==1)
+cout<<"so nhap vao la boi so cua 3";
+else
+cout<<"so nhap vao khong phai la boi so cua 3 "; 
+}
